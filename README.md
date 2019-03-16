@@ -1,7 +1,8 @@
 # README #
 
 ## The Twenties ##
-![The_Twenties](./20s.png)
+
+<img width="100" height="100" src="./20s.png">
 
 ### What is this repository for? ###
 
